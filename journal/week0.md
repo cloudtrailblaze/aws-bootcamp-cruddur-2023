@@ -23,7 +23,7 @@ I admit, intitally I struggled with the installation process but was able to sti
 2. unpacked the zip file
 3. installed AWSCLI
 4. verified a new instance/workspace would run AWSCLI
-5. Commit my changes to Github and verify my work
+5. Commit my changes to Github and verify my work (<em>which included making sure aws keys were set in user-settings on GitPod</em>)
 
 ``` curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
