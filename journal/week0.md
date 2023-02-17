@@ -15,6 +15,7 @@ screenshots [assets journal](https://github.com/cloudtrailblaze/aws-bootcamp-cru
 - Gitpod configuration (AWS Credentials, AWS CLI)
 - Watched video playlist for week0 (thank you Andrew & team 👏)
 - Created accounts for GitHub, GitPod, AWS, Honeycomb.io, and Rollbar
+- Installed Visual Studio application on my local machine
 - Purchased a new domain name 
 ---
 
