@@ -44,6 +44,6 @@ Ran AWSCLI commands for billing and budget alarm and committed my changes to mai
 
 ## Homework Hard Assignments
 Lucidchart architectural diagram(s) conceptual and logical :vulcan_salute:
-- [Conceptual Napkin attempt:boom:](assest/cloudtrailblaze_conceptual_napkin.jpg)
+- [Conceptual Napkin attempt:boom:](assets/cloudtrailblaze_conceptual_napkin.jpg)
 - [Conceptual Diagram](https://lucid.app/lucidchart/0cd32f9a-eae5-47d8-a249-3e4a551df1e6/view?page=0_0#)
 - [Logical Diagram](https://lucid.app/lucidchart/88ea5c3c-8906-4e55-95c8-6b1c676bdbd5/view?page=0_0&invitationId=inv_38cfc8f2-17e8-460b-a4a9-a86628dbf0c9#)
