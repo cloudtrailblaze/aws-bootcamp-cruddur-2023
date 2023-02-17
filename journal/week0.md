@@ -8,11 +8,14 @@ screenshots [assets journal](https://github.com/cloudtrailblaze/aws-bootcamp-cru
 - Under my pre-existing root account I created a new organization group 
 - I created a new IAM user with admin privileges and applied user to new org group 
 - Generated AWS credentials / Created access keys for admin user
+- Setup Cloudtrail tracking for IAM user 
 - Turned on MFA for the IAM user 
-- Use Cloudshell 
-- Set up budgets and alarms/SNS
+- Use Cloudshell (mainly used in GitPod) and got familiar with it in AWS
+- Setup budgets and alarms/SNS (configured alarm from GitPod using AWSCLI) 
 - Gitpod configuration (AWS Credentials, AWS CLI)
 - Watched video playlist for week0 (thank you Andrew & team 👏)
+- Created accounts for GitHub, GitPod, AWS, Honeycomb.io, and Rollbar
+- Purchased a new domain name 
 ---
 
 
